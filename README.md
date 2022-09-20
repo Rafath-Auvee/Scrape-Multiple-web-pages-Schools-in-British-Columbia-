@@ -1,5 +1,7 @@
 # Scrape Multiple Web Pages of Schools in British Columbia
 
+Youtube Video : https://youtu.be/rszA31Kc4wc
+
 https://www.city-data.com/schools-dirs/schools-BC.html
 
 Selenium, Beautiful Soup
